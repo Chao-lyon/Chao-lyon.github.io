@@ -9,6 +9,6 @@ date: '2025-01-01'
 venue: 'Advances in Applied Mathematics'
 status: 'accepted'
 coauthors: 'Jiang Zeng'
-paperurl: '/files/Paper3.pdf'
+paperurl: '/files/paper3.pdf'
 ---
 
